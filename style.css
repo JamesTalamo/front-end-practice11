@@ -489,7 +489,7 @@
   height: 30vh;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 
@@ -502,6 +502,7 @@
   align-items: center;
   justify-content: center;
   gap:2rem;
+  background-color: transparent;
 }
 .footer-logo{
   background-color: transparent;
@@ -769,13 +770,14 @@
     /*PAGE 3*/
     /*FOOTER start*/
       #footer{
-        height: 70vh;
+        height: 80vh;
       }
       
       .pFooter{
-        height: 70vh;
+        height: 80vh;
         flex-direction: column;
         justify-content: center;
+
       }
       
       .c1{
@@ -830,7 +832,7 @@
     }
 
     .pFooter{
-      height: 90vh;
+      height: 100vh;
     }
 
     .c1{
@@ -949,11 +951,11 @@
      /*PAGE (3)*/
 
      #footer{
-      height: 100vh;
-      padding-top: 10px;
+      height: 110vh;
     }
-
+    
     .pFooter{
-      height: 90vh;
+      height: 110vh;
+
     }
   }
