@@ -825,7 +825,7 @@
     }
 
     #footer{
-      height: 95vh;
+      height: 100vh;
       padding-top: 10px;
     }
 
@@ -947,4 +947,13 @@
       height: 250vh;
     }
      /*PAGE (3)*/
+
+     #footer{
+      height: 100vh;
+      padding-top: 10px;
+    }
+
+    .pFooter{
+      height: 90vh;
+    }
   }
